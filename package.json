@@ -3,7 +3,10 @@
   "displayName": "VS2010 Blue",
   "description": "Theme meant to replicate the default theme from Visual Studio 2010",
   "version": "0.0.1",
-  "license": "BSD-3-Clause",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "url": "https://github.com/zulc22/vs2010-blue"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
