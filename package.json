@@ -1,0 +1,22 @@
+{
+  "name": "vs2010-blue",
+  "displayName": "VS2010 Blue",
+  "description": "Theme meant to replicate the default theme from Visual Studio 2010",
+  "version": "0.0.1",
+  "license": "BSD-3-Clause",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VS2010 Blue",
+        "uiTheme": "vs",
+        "path": "./themes/VS2010 Blue-color-theme.json"
+      }
+    ]
+  }
+}
