@@ -2,8 +2,10 @@
   "name": "vs2010-blue",
   "displayName": "VS2010 Blue",
   "description": "Theme meant to replicate the default theme from Visual Studio 2010",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "BSD-2-Clause",
+  "publisher": "zulc22",
+  "icon": "icon.png",
   "repository": {
     "url": "https://github.com/zulc22/vs2010-blue"
   },
